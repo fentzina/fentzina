@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Fenia Tzina</h1>
 <h3 align="center">A passionate software developer from Greece!</h3>
 
-- 🔭 I’m currently working on **as a Software Engineer and contributing to frontend and backend for building web applications.**
+- 🔭 I’m currently working **as a Software Engineer and contributing to frontend and backend for building web applications.**
 
 - 📫 How to reach me **fentzina@gmail.com**
 
