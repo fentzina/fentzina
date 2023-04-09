@@ -1,4 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Fenia Tzina</h1>
+
+<img src="https://giphy.com/embed/BRN2Xi0MqnjjO" width="480" height="256" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<p><a href="https://giphy.com/gifs/studio-ghibli-my-neighbor-totoro-BRN2Xi0MqnjjO"></a></p>>
+
 <h3 align="center">A passionate software developer from Greece!</h3>
 
 - 🔭 I’m currently working **as a Software Engineer and contributing to frontend and backend for building web applications.**
