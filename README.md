@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Fenia Tzina</h1>
 
-<iframe src="https://giphy.com/embed/Zgvj4OxTtCSxG" width="480" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://giphy.com/embed/Zgvj4OxTtCSxG" width="480" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 <p><a href="https://giphy.com/gifs/funny-cute-Zgvj4OxTtCSxG">via GIPHY</a></p>
 
 <h3 align="center">A passionate software developer from Greece!</h3>
