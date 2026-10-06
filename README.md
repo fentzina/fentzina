@@ -47,4 +47,4 @@ I turn messy operational and clinical data into reliable datasets, automated rep
 
 - 📧 fentzina@gmail.com
 - 💼 [((https://www.linkedin.com/in/fenia-tzina/))](https://www.linkedin.com/in/fenia-tzina/)
-- 🌐 ([[https://YOUR-WEBSITE](https://feniatzina.netlify.app/)](https://feniatzina.netlify.app/))
+- 🌐 ([WEBSITE](https://feniatzina.netlify.app/)](https://feniatzina.netlify.app/))
