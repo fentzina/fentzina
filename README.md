@@ -1,17 +1,50 @@
-<h1 align="center">Fenia Tzina</h1>
-<h3 align="center">A passionate Software Engineer from Greece!</h3>
+# Hi, I'm Fenia 👋
 
-- I have graduated from Department of Computer Science and Biomedical Informatics, UTH. In my free time, I practice in machine learning and computer vision projects. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.  
+**Data Analyst & Biomedical Engineer** based in Thessaloniki, Greece.
 
-- 📫 How to reach me **fentzina@gmail.com**
+I turn messy operational and clinical data into reliable datasets, automated reports and models people can trust. My background combines **SQL and ERP data work** with **machine learning for medical imaging**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fenia-tzina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fenia-tzina" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/fentzina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fentzina" height="30" width="40" /></a>
-<a href="https://kaggle.com/fanitzina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fanitzina" height="30" width="40" /></a>
-<a href="https://medium.com/@fentzina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fentzina" height="30" width="40" /></a>
-</p>
+- 🎓 MSc student in Medical Engineering and Informatics at Aristotle University of Thessaloniki (AUTH)
+- 🎓 BSc in Computer Science and Biomedical Informatics, University of Thessaly
+- 💼 2+ years working with SQL, ERP platforms (including SoftOne), data validation and automated reporting
+- 🔬 Currently working on deep learning and radiomics for pancreatic cancer characterization
+- 🌍 Greek (native), English (C2), German (A2)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack
+
+**Data & SQL:** SQL · MySQL · Relational databases · Query optimization · Data validation · Data cleaning
+
+**Analysis & Reporting:** Python (pandas, NumPy, SciPy) · EDA · Hypothesis testing · matplotlib · Seaborn · Jupyter Notebooks
+
+**Machine Learning:** scikit-learn · TensorFlow · PyTorch · CNNs · Transfer learning · Feature engineering · Cross-validation
+
+**Other:** R · MATLAB · JavaScript · Git/GitHub · Google Colab
+
+## 💼 Experience Highlights
+
+- **Data & Systems Developer (ERP Platform), InfoSpy P.C.** (2024–2025): improved data reliability by 60% across 50+ client databases with automated SQL workflows and validation pipelines. Cut manual reporting time by 40% with Python automation.
+- **Data Analyst & Programmer, HIPPOKRATIS AE** (2023–2024): optimized SQL schemas and queries on large operational datasets. Built Python automation integrated with SoftOne ERP that streamlined document processing by 30%.
+
+## 📂 Selected Projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| **Clinical Document Digitization Pipeline** (AHEPA Hospital collaboration, in progress) | Extracts and structures data from scanned handwritten and printed clinical records using OCR, then stores the validated results securely | Python, OCR, PDF parsing |
+| **Deep Learning & Radiomics Fusion for Pancreatic Cancer** (MSc thesis) | Fuses CNN features with handcrafted radiomics on CT imaging to improve tumor characterization | Python, scikit-learn, deep learning |
+| **Amazon Product Recommendation System** | SVD matrix factorization and collaborative filtering, reaching 0.80 RMSE (20% better than baseline) | Python, pandas, NumPy |
+| **ML Pipeline for Feature Selection & Clinical Outcome Prediction** | Cross-validated feature selection (RFE, mutual information) with reporting | scikit-learn, matplotlib |
+| **ECG & ML Pipeline for Atrial Fibrillation Prediction** | Beat detection, HRV feature extraction and SVM/RF/LR comparison | Python, signal processing |
+| **Genetic Algorithms for CNN Training** (BSc thesis) | Hybrid genetic algorithm–backpropagation method that matches backprop accuracy on MNIST | MATLAB |
+
+## 📜 Certifications & Training
+
+- Data Analytics, Deloitte
+- Data Science and Machine Learning: Making Data-Driven Decisions, MIT
+- Preparing Data for Machine Learning, Great Learning
+- EHDS Plugathon, IHE-Europe, Brussels (2026): European Health Data Space interoperability, including FHIR
+
+## 📫 Get in Touch
+
+- 📧 fentzina@gmail.com
+- 💼 [LinkedIn][((https://www.linkedin.com/in/fenia-tzina/))](https://www.linkedin.com/in/fenia-tzina/)
+- 🌐 [Website]([https://YOUR-WEBSITE](https://feniatzina.netlify.app/))
